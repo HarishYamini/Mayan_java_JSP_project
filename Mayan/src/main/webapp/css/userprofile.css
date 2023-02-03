@@ -1,0 +1,96 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.ht-myaccount-5-tab{
+    display: block;
+    display: flex;
+    display: flexbox;
+}
+
+.g-col-4{
+    height: 80px;
+    
+    width: 150px;
+    border: 1px solid rgb(223, 221, 221);
+    
+    
+}
+.g-col-4 a{
+    color: rgb(146, 145, 145);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: justify;
+    text-align: center;
+    
+
+}
+.g-col-4 a:hover{
+    color: rgb(100, 99, 99);
+}
+.g-col-4 i{
+    margin-right: 190px;
+    margin-left: 65px;
+    margin-top: 15px;
+    color: rgb(146, 145, 145);
+    font-size: large;
+}
+.g-col-4 i:hover{
+    color: rgb(100, 99, 99);
+}
+
+.container{
+    width: 100%;
+    
+}
+.container h2{
+    text-align: center;
+    padding-top: 20px;
+}
+table{
+    border: 1px solid rgb(223, 221, 221);
+}
+thead{
+    background-color:  rgb(243, 241, 241);
+}
+tbody a{
+    text-decoration: none;
+    color: black;
+}
+td{
+    color: rgb(94, 92, 92);
+    font-size: small;
+}
+p{
+    color: rgb(94, 92, 92);
+    font-size: medium;
+}
+label{
+    color: rgb(94, 92, 92);
+    font-size: medium; 
+}
+.alert{
+    background-color: rgba(243, 241, 241, 0.411);
+}
+.ht-myaccount-address{
+    background-color: rgba(243, 241, 241, 0.411);
+    border-radius: 10px;
+    padding: 20px;
+}
+.ht-myaccount-address h3{
+    font-size: large;
+    font-weight: 600;
+}
+.ht-myaccount-address-sub-title{
+    font-weight: 600;
+}
+.ht-myaccount-address p{
+    font-size: small;
+    height: 10px;
+    margin-top: 10px;
+    
+}
+.ht-myaccount-address a{
+    color: rgb(207, 204, 204);
+    text-decoration: none;
+}
